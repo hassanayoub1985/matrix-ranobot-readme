@@ -1,0 +1,6 @@
+Flow
+1. Install thirdroom.io.md
+   1) Install Nginx on Ubuntu.md
+   2) Increase Limit File Upload Size in NGINX.md
+2. Installing Synapse.md
+3. Install a TURN Server on Ubuntu (Coturn).md
