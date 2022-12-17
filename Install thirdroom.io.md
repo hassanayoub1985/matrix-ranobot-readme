@@ -26,7 +26,6 @@ git clone https://github.com/matrix-org/thirdroom.git
 And then go into directory `thirdroom` and install node modules.
 ```
 cd thirdroom
-npm i
 ```
 After you've installed node.js locally, run the following commands.
 ```
