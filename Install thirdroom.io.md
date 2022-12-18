@@ -74,6 +74,7 @@ cp -R ranobot/ /var/www/html/ranobot/
 
 ### Install and Configure Nginx Server.
 Please read and follow the steps in `Install Nginx on Ubuntu.md` and `Increase Limit File Upload Size in NGINX.md`.
+Thirdroom.io must use https.
 Add request headers into every request.
 ```
 server {
